@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ActuallyGSM
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning to work as a full potetial full stack developer so learning all programming languages showed up in my way
-- 💞️ I’m looking to collaborate on any team on any kind of development
+- 👋 Hi, I’m Gihan Madusanka (@ActuallyGSM)
+A Senior Software Engineer and Technical Lead at Virtusa with expertise in Java, ReactJS, Flutter, Node.js, and GCP. Passionate about designing scalable, high-performance applications and cloud-based solutions. Experienced in full-stack development, microservices architecture, and DevOps practices. Always exploring new technologies and open-source contributions. Let's build something amazing!
 - 📫 +94 755 888 115 or Email me: sameera.ctv@gmail.com
 
 <!---
